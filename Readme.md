@@ -1,4 +1,4 @@
-# Product Preview Card
+# THREE COLUMN CARDS
 *****
 ### Author : Alice Auko 28th November 2022
 ****
