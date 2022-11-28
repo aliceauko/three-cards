@@ -1,6 +1,6 @@
 # THREE COLUMN CARDS
 *****
-### Author : Alice Auko 28th November 2022
+### Author : Alice Auko 29th November 2022
 ****
 ## Project Description
 Three responsive cards created using html5 and css
